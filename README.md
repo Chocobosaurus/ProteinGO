@@ -1,6 +1,7 @@
 # ProteinGO!
-To run the game, simply execute the python script from the root of the repository:
+To run the game, simply install `pygame` and execute the python script from the root of the repository:
 ```
+pip install pygame
 python ProteinGO.py
 ```
 ## Rules
