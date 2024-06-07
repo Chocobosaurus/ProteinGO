@@ -19,10 +19,10 @@ TDP-43 is a key protein involved in many cellular processes, among the studied o
 ![RNA3](resources/rna3.png)
 ![RNA4](resources/rna4.png) 
 related. <br> 
-This is expected because the protein possese structural motifs that facilitate binding to RNAs. 
+This is expected because the protein possess structural motifs that facilitate binding to RNAs. 
 
 Pathologies in the two diseases, particualry FTD, can highly differ among subtypes and the exact pathological mechanism is still being investigated, but a decisive clue we have is that, often upon examination of patient brains, we could find the protein in an abnormaly aggregated form. 
-<img src="resources/protein_down0.png" alt="agg" width="100"/>
+<img src="resources/protein_crash0.png" alt="agg" width="100"/>
 
 This suggests that the protein was being sequestered from where it's normalily found in a heathy neuron, and thus the capacity for it to perform it's various physiological function (often RNA related) has been reduced, leading to dysfunctions in the brain area affected. 
 
